@@ -2,7 +2,7 @@ Face Anti Spoofing
 
 # CS331.O11.KHTN - Advanced Computer Vision (CV++)
 |**Student ID**| **Member**|**Email**|
-|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|
 |21520064|Truong Thanh Minh|21520064@gm.uit.edu.vn|
 |21520085|To Anh Phat|21520085@gm.uit.edu.vn|
 
